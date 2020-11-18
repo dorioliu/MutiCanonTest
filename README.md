@@ -1,2 +1,10 @@
 # MutiCanonTest
 This is a test project based on multiple Canon cameas. In this proj, three camera synchronously work to caputure a same scene.
+
+quickly started with the following steps:
+/******
+cd ProjDir
+mkdir canonsdk
+cp $(authorized canon sdk)/*  ./canonsdk
+*******/
+build the project with MS Visual studio. be sure that the .dll files of canon SDK in your environment variables.

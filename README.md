@@ -1,6 +1,6 @@
 
 # MutiCanonTest  
-This is a test project based on multiple Canon cameas. In this proj, three camera synchronously work to caputure a same scene.  
+This is a test project based on multiple Canon cameras. In this proj, three camera synchronously work to capture the same scene.  
 
 quickly started with the following steps:  
 /******  
